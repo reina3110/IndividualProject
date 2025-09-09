@@ -1,0 +1,11 @@
+/* Global Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: white;
+  color: #2d3748; /* Tailwind's gray-800 */
+}
+
+/* Cart Badge Animation */
+#cart-count.scale-100 {
+  transform: scale(1) !important;
+}
